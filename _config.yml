@@ -12,8 +12,8 @@ Thats it for now .....✌️😁
 # Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: @SdAm1n #your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  @SdAm1n #your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: SdAm1n #your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  SdAm1n #your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
